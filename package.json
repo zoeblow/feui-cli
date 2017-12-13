@@ -1,0 +1,9 @@
+{
+  "name": "feui-cli",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "vue-cli template with feui",
+  "devDependencies": {
+    "vue-cli": "^2.8.1"
+  }
+}
