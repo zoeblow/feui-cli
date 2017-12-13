@@ -14,7 +14,7 @@
     "lint": "eslint --ext .js,.vue src{{#unit}} test/unit/specs{{/unit}}{{#e2e}} test/e2e/specs{{/e2e}}"{{/lint}}
   },
   "dependencies": {
-    "feui": "^0.2.23",
+    "feui": "^0.2.3",
     "vue": "^2.5.0"{{#router}},
     "vue-router": "^3.0.0"{{/router}}
   },
@@ -29,6 +29,8 @@
     "array-shuffle": "^1.0.1",
     "autosize": "^4.0.0",
     "countup.js": "^1.9.3",
+    "es6-promise": "^4.1.1",
+    "axios": "^0.17.1",
     {{#lint}}
     "babel-eslint": "^7.1.1",
     {{/lint}}
