@@ -21,6 +21,14 @@
   "devDependencies": {
     "autoprefixer": "^7.1.2",
     "babel-core": "^6.22.1",
+    "less": "^2.7.3",
+    "less-loader": "^4.0.5",
+    "array-filter": "^1.0.0",
+    "array-find": "^1.0.0",
+    "array-map": "0.0.0",
+    "array-shuffle": "^1.0.1",
+    "autosize": "^4.0.0",
+    "countup.js": "^1.9.3",
     {{#lint}}
     "babel-eslint": "^7.1.1",
     {{/lint}}
