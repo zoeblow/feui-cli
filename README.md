@@ -1,6 +1,6 @@
 # vue-cli
 
-> vue-cli template for feui;
+> A vue-cli template for feui;
 
 ## Usage
 
