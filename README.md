@@ -40,3 +40,4 @@ If port 8080 is already in use on your machine you must change the port number i
   - Works with one command out of the box:
     - Selenium and chromedriver dependencies automatically handled.
     - Automatically spawns the Selenium server.
+    
