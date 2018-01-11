@@ -6,6 +6,7 @@
       <h2>Feui Router</h2>
       <br>
       <p>欢迎使用Feui</p>
+      <p>Welcome Use Feui</p>
       <br>
     </div>
     <ul>
