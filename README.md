@@ -1,4 +1,4 @@
-# vue-cli
+# feui-cli
 
 > A vue-cli template for feui;
 
