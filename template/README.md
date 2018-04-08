@@ -2,19 +2,19 @@
 
 > {{ description }}
 
-## Build Setup
+## 三步走
 
 ``` bash
-# install dependencies
+# 依赖装一波
 npm install
 
-# serve with hot reload at localhost:8080
+# 会在8080端口跑一个服务
 npm run dev
 
-# build for production with minification
+# 生成生产环境代码
 npm run build
 
-# build for production and view the bundle analyzer report
+# 生成生产环境代码并生成分析器报告
 npm run build --report
 {{#unit}}
 

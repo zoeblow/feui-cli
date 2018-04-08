@@ -2,7 +2,7 @@
 
 > A vue-cli template for feui;
 
-## Usage
+## 如何使用
 
 ``` bash
 $ npm install -g vue-cli
@@ -12,7 +12,7 @@ $ npm install
 $ npm run dev
 ```
 
-If port 8080 is already in use on your machine you must change the port number in `/config/index.js`. Otherwise `npm run dev` will fail.
+如果您的8080端口被占用请修改`/config/index.js`文件中的端口号. 否则 `npm run dev` 会编译失败哦。
 
 ## What's Included
 
