@@ -10,7 +10,7 @@
       <br>
     </div>
     <ul>
-      <li><a href="#/index">to to index page</a></li>
+      <li><a href="#/index">to index page</a></li>
     </ul>
   </div>
 </template>
