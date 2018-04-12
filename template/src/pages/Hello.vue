@@ -3,7 +3,7 @@
   <div class="hello">
     <div class="logo">
       <img src="./../assets/feui.png" alt="">
-      <h2>Feui Router</h2>
+      <h2>Feui</h2>
       <br>
       <p>欢迎使用Feui</p>
       <p>Welcome Use Feui</p>

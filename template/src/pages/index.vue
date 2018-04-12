@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <div class="index">
     <fe-header>index</fe-header>
     <divider>翻滚吧</divider>
     <div style='text-align: center;'>
