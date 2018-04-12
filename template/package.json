@@ -14,7 +14,7 @@
     "lint": "eslint --ext .js,.vue src{{#unit}} test/unit/specs{{/unit}}{{#e2e}} test/e2e/specs{{/e2e}}"{{/lint}}
   },
   "dependencies": {
-    "feui": "^0.4.15",
+    "feui": "^0.4.17",
     "vue": "^2.5.0"{{#router}},
     "vue-router": "^3.0.0"{{/router}}
   },
