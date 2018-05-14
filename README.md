@@ -6,7 +6,7 @@
 
 ``` bash
 $ npm install -g vue-cli
-$ vue init zoeblow/feui-cli projectName
+$ vue init zoeblow/feui-cli projectName  #(项目名称不能有大写哦)
 $ cd projectName
 $ npm install
 $ npm run dev
