@@ -6,7 +6,7 @@
 
 ``` bash
 $ npm install -g vue-cli
-$ vue init zoeblow/vue-cli projectName
+$ vue init zoeblow/feui-cli projectName
 $ cd projectName
 $ npm install
 $ npm run dev
