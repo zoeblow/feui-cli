@@ -5,8 +5,11 @@
 ## 如何使用
 
 ``` bash
+# 首先安装 vue-cli
 $ npm install -g vue-cli
+# 在你需要的目录打开命令行
 $ vue init zoeblow/feui-cli projectName  #(项目名称不能有大写哦)
+# 下面你懂的
 $ cd projectName
 $ npm install
 $ npm run dev

@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "feui": "^0.4.19",
-    "vue": "^2.5.0"{{#router}},
+    "vue": "^2.5.16"{{#router}},
     "vue-router": "^3.0.0"{{/router}}
   },
   "devDependencies": {
