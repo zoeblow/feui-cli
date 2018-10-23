@@ -18,14 +18,14 @@
 <script>
 export default {
   name: 'hello',
-  data () {
-    return {
-    }
+  data() {
+    return {};
   }
-}
+};
 </script>
 <style scoped lang='less'>
-h1, h2 {
+h1,
+h2 {
   font-weight: normal;
 }
 
@@ -40,9 +40,9 @@ li {
 a {
   color: #42b983;
 }
-.logo{
+.logo {
   text-align: center;
-  img{
+  img {
     width: 125px;
   }
 }

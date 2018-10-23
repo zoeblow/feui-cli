@@ -9,13 +9,13 @@
 </template>
 
 <script>
-import { Header,Divider,Countup} from 'feui';
+import { Header, Divider, Countup } from 'feui';
 
 export default {
   components: {
     [Header.name]: Header,
     [Divider.name]: Divider,
-    [Countup.name]: Countup,
+    [Countup.name]: Countup
   }
 };
 </script>
@@ -24,16 +24,15 @@ export default {
 body {
   background-color: #f8f8f8;
 }
-.logo{
+.logo {
   text-align: center;
-  img{
+  img {
     width: 180px;
   }
 }
 .demo1 {
-    font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
-    font-size: 6em;
-    color: #4a90e2;
+  font-family: "Source Sans Pro", Helvetica, Arial, sans-serif;
+  font-size: 6em;
+  color: #4a90e2;
 }
-
 </style>
