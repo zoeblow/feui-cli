@@ -1,7 +1,7 @@
 import Vue from 'vue';
 import Router from 'vue-router';
 
-//pages
+// pages
 import hello from '@/pages/Hello';
 import index from '@/pages/Index';
 
