@@ -18,6 +18,7 @@
   "plugins": [
     "vue"
   ],
+  "extends": "@78d6/eslint-config-react-app",
 
   "rules": {
     "accessor-pairs": 2,
